@@ -21,3 +21,26 @@ QString qstr2 = QString::fromStdString(stdStr);`==
 
 `// С указанием ширины и заполнения`
 `QString strPadded = QString::number(number).rightJustified(5, '0'); // "00042"`
+
+
+
+из QString в std::string
+
+**`QString::toStdString()`:**
+
+```
+cpp
+
+QString qstr = "Привет";
+std::string stdstr = qstr.toStdString();  // UTF-8
+```
+
+**Или явно указать кодировку:**
+
+```
+cpp
+
+std::string str1 = qstr.toUtf8().constData();    // UTF-8
+std::string str2 = qstr.toLatin1().constData();  // Latin-1 (только англ.)
+```
+
