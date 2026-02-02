@@ -6,6 +6,7 @@
       {
         "id": "e31751e4c8ff1aaf",
         "type": "tabs",
+        "dimension": 72.37569060773481,
         "children": [
           {
             "id": "f6f3431703b33c41",
@@ -27,26 +28,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "скобочки ссаные.md",
+                "file": "vector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "скобочки ссаные"
+              "title": "vector"
             }
           },
           {
             "id": "31ec6872f0b1eb38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "callback функции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "callback функции"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -126,7 +123,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "6ceb8e5adaced79c",
+        "type": "tabs",
+        "dimension": 27.624309392265197,
+        "children": [
+          {
+            "id": "58433216ec370029",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,14 +173,14 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -285,22 +299,26 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e576fe52ff52ca55",
+  "active": "31ec6872f0b1eb38",
   "lastOpenFiles": [
-    "algorithm.md",
-    "C++.md",
-    "class.md",
-    "Итератор.md",
-    "спец слова (чпецификаторы).md",
-    "vector.md",
     "string.md",
+    "callback функции.md",
+    "Без названия.md",
+    "Без названия.canvas",
+    "Без названия 1.md",
+    "vector.md",
+    "algorithm.md",
+    "перегрузки операторов.md",
+    "class.md",
     "size_t.md",
+    "C++.md",
+    "спец слова (чпецификаторы).md",
     "explicit.md",
     "Exeption.md",
     "enum class.md",
     "Qt/QString.md",
-    "callback функции.md",
     "скобочки ссаные.md",
+    "Итератор.md",
     "Qt.md",
     "qDebug.md",
     "QListWidget, QTableWidget и  тд.md",
@@ -309,12 +327,8 @@
     "иницилизация кала.md",
     "callable (функциональный объект).md",
     "Форматирование.md",
-    "Основные escape-последовательности.md",
     "Vector",
     "Qt",
-    "QString",
-    "exeption (пример).md",
-    "create a link.md",
-    "exceptions (Исключения).md"
+    "QString"
   ]
 }
