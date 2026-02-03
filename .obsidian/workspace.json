@@ -40,10 +40,14 @@
             "id": "31ec6872f0b1eb38",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Сравнение диапазонов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сравнение диапазонов"
             }
           },
           {
@@ -301,13 +305,15 @@
   },
   "active": "31ec6872f0b1eb38",
   "lastOpenFiles": [
-    "string.md",
+    "algorithm.md",
+    "callable (функциональный объект).md",
     "callback функции.md",
+    "Сравнение диапазонов.md",
+    "string.md",
     "Без названия.md",
     "Без названия.canvas",
     "Без названия 1.md",
     "vector.md",
-    "algorithm.md",
     "перегрузки операторов.md",
     "class.md",
     "size_t.md",
@@ -325,7 +331,6 @@
     "Активности и неактивности + проверка на галочку.md",
     "Qt форматирование.md",
     "иницилизация кала.md",
-    "callable (функциональный объект).md",
     "Форматирование.md",
     "Vector",
     "Qt",
