@@ -6,7 +6,6 @@
       {
         "id": "e31751e4c8ff1aaf",
         "type": "tabs",
-        "dimension": 72.37569060773481,
         "children": [
           {
             "id": "f6f3431703b33c41",
@@ -37,31 +36,31 @@
             }
           },
           {
-            "id": "31ec6872f0b1eb38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сравнение диапазонов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сравнение диапазонов"
-            }
-          },
-          {
             "id": "c2479db5e0b23b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "callback функции.md",
+                "file": "algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "callback функции"
+              "title": "algorithm"
+            }
+          },
+          {
+            "id": "4a14c87d63afae2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "команды"
             }
           },
           {
@@ -105,46 +104,9 @@
               "icon": "lucide-file",
               "title": "class"
             }
-          },
-          {
-            "id": "b01c6d34aa90022a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "2f1a1566fc557dff",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "6ceb8e5adaced79c",
-        "type": "tabs",
-        "dimension": 27.624309392265197,
-        "children": [
-          {
-            "id": "58433216ec370029",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,8 +246,49 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5876be910fd6011e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "a9f3500bcfe2ca88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "94245913395b49aa",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "45a3819caa3355ab",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -297,41 +300,42 @@
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "31ec6872f0b1eb38",
+  "active": "4a14c87d63afae2d",
   "lastOpenFiles": [
+    "Git.md",
+    "команды.md",
     "algorithm.md",
+    "Рандом.md",
+    "Сравнение диапазонов.md",
+    "QString и сортировка регистрами.md",
+    "Qt/QString.md",
+    "string.md",
+    "vector.md",
+    "регистры.md",
+    "lambda.md",
+    "Итератор.md",
+    "Компаратор.md",
+    "C++.md",
+    "то-то то-то.canvas",
+    "Pasted image 20260204004631.png",
+    "2026-02-04.md",
+    "Exeption.md",
+    "прикольные мелкие контейнеры pair, optional, tie.md",
+    "size_t.md",
+    "Основные escape-последовательности.md",
+    "function.md",
+    "спец слова (чпецификаторы).md",
     "callable (функциональный объект).md",
     "callback функции.md",
-    "Сравнение диапазонов.md",
-    "string.md",
-    "Без названия.md",
-    "Без названия.canvas",
     "Без названия 1.md",
-    "vector.md",
     "перегрузки операторов.md",
     "class.md",
-    "size_t.md",
-    "C++.md",
-    "спец слова (чпецификаторы).md",
-    "explicit.md",
-    "Exeption.md",
-    "enum class.md",
-    "Qt/QString.md",
-    "скобочки ссаные.md",
-    "Итератор.md",
-    "Qt.md",
-    "qDebug.md",
-    "QListWidget, QTableWidget и  тд.md",
-    "Активности и неактивности + проверка на галочку.md",
-    "Qt форматирование.md",
-    "иницилизация кала.md",
-    "Форматирование.md",
     "Vector",
     "Qt",
     "QString"

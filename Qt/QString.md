@@ -1,5 +1,5 @@
 [[Qt форматирование]]
-
+[[QString и сортировка регистрами]]
 `std::string stdStr = "Hello World";==
 
 // Из const char*
