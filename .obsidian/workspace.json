@@ -11,70 +11,38 @@
             "id": "f6f3431703b33c41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exeption.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exeption"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
-            "id": "e576fe52ff52ca55",
+            "id": "84a8f82c28990438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vector.md",
+                "file": "ИНКЛЮДЫ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vector"
+              "title": "ИНКЛЮДЫ"
             }
           },
           {
-            "id": "c2479db5e0b23b29",
+            "id": "afef862fca6033a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm.md",
+                "file": "повторяющиеся символы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algorithm"
-            }
-          },
-          {
-            "id": "4a14c87d63afae2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "команды.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "команды"
-            }
-          },
-          {
-            "id": "bb90b1c73e34e963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Память Начало.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Память Начало"
+              "title": "повторяющиеся символы"
             }
           },
           {
@@ -111,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class.md",
+                "file": "перегрузки операторов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class"
+              "title": "перегрузки операторов"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,6 +273,146 @@
             "id": "2a21ff50df390018",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "d2f158cb68de4d2a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "d9883b0122fe323e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "5de3e31dfa9e4ebf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "365eab3ff05ed3f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "be9ebe67dde42a21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "c0f5da987fef2585",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "282f7e349a658762",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "a730c402f44d6409",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "3b092f5f5e34c1da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "11ab7043bc3d4c34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "45bc5be530764223",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "61fdfebe33448e0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "a50091f984e66970",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "0b83f8fec96c5050",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -312,7 +420,7 @@
             }
           },
           {
-            "id": "d2f158cb68de4d2a",
+            "id": "3121a21a7bc7f416",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -322,7 +430,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 24
       }
     ],
     "direction": "horizontal",
@@ -340,36 +448,41 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "bb90b1c73e34e963",
+  "active": "84a8f82c28990438",
   "lastOpenFiles": [
-    "команды.md",
-    "Память Начало.md",
-    "Git.md",
-    "algorithm.md",
-    "Рандом.md",
-    "Сравнение диапазонов.md",
-    "QString и сортировка регистрами.md",
-    "Qt/QString.md",
-    "string.md",
-    "vector.md",
-    "регистры.md",
-    "lambda.md",
-    "Итератор.md",
-    "Компаратор.md",
     "C++.md",
+    "class.md",
+    "перегрузки операторов.md",
+    "star_sheap.md",
+    "Квадратные скобки.md",
+    "ИНКЛЮДЫ.md",
+    "ветвления.md",
+    "Итератор.md",
+    "algorithm.md",
+    "повторяющиеся символы.md",
+    "pair.md",
+    "vector.md",
+    "Signals.md",
+    "enum class.md",
+    "Qt/QString.md",
+    "Include и оные.md",
+    "Anather Counters.md",
+    "generate tramsform.md",
+    "команды.md",
+    "exeption (пример).md",
+    "lambda.md",
+    "спец слова (спецификаторы).md",
+    "Сравнение диапазонов.md",
+    "Exeption.md",
+    "switch.md",
+    "Pasted image 20260207232614.png",
+    "Pasted image 20260207232331.png",
+    "Форматирование.md",
+    "Без названия.base",
+    "Без названия 1",
+    "Без названия",
     "то-то то-то.canvas",
     "Pasted image 20260204004631.png",
-    "2026-02-04.md",
-    "Exeption.md",
-    "прикольные мелкие контейнеры pair, optional, tie.md",
-    "size_t.md",
-    "Основные escape-последовательности.md",
-    "function.md",
-    "спец слова (чпецификаторы).md",
-    "callable (функциональный объект).md",
-    "callback функции.md",
-    "Без названия 1.md",
-    "перегрузки операторов.md",
     "Vector",
     "Qt",
     "QString"

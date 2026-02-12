@@ -1,7 +1,11 @@
+```
 #include <iostream>
+```
+```
 #include <string>
 #include <stdexcept>
 
+```
 // 1. Генерация исключения
 void riskyFunction(int value) {
     if (value < 0) {
@@ -29,9 +33,12 @@ int main() {
     }
     
     return 0;
+```
 }#include <iostream>
 #include <string>
 #include <stdexcept>
+```
+```
 
 // 1. Генерация исключения
 void riskyFunction(int value) {
@@ -61,3 +68,4 @@ int main() {
     
     return 0;
 }
+```
