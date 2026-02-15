@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИНКЛЮДЫ.md",
+                "file": "map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ИНКЛЮДЫ"
+              "title": "map"
             }
           },
           {
@@ -413,6 +413,66 @@
             "id": "0b83f8fec96c5050",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "3121a21a7bc7f416",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "8739fc3afa8eb20c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "55fb0baace1cd560",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "c1d3ac8c5376999a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "6b406bab40764f13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "4f1a4e456d262e9b",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -420,7 +480,7 @@
             }
           },
           {
-            "id": "3121a21a7bc7f416",
+            "id": "6ee1391ac8ec8bee",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -430,7 +490,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 30
       }
     ],
     "direction": "horizontal",
@@ -450,34 +510,34 @@
   },
   "active": "84a8f82c28990438",
   "lastOpenFiles": [
+    "ИНКЛЮДЫ.md",
+    "map.md",
+    "Anather Counters.md",
     "C++.md",
+    "algorithm.md",
+    "прикольные мелкие контейнеры pair, optional, tie.md",
+    "Итератор.md",
+    "повторяющиеся символы.md",
+    "vector.md",
+    "связанные списки.md",
+    "Память Начало.md",
+    "Git.md",
     "class.md",
     "перегрузки операторов.md",
     "star_sheap.md",
     "Квадратные скобки.md",
-    "ИНКЛЮДЫ.md",
     "ветвления.md",
-    "Итератор.md",
-    "algorithm.md",
-    "повторяющиеся символы.md",
     "pair.md",
-    "vector.md",
     "Signals.md",
     "enum class.md",
     "Qt/QString.md",
     "Include и оные.md",
-    "Anather Counters.md",
     "generate tramsform.md",
     "команды.md",
     "exeption (пример).md",
     "lambda.md",
-    "спец слова (спецификаторы).md",
-    "Сравнение диапазонов.md",
-    "Exeption.md",
-    "switch.md",
     "Pasted image 20260207232614.png",
     "Pasted image 20260207232331.png",
-    "Форматирование.md",
     "Без названия.base",
     "Без названия 1",
     "Без названия",

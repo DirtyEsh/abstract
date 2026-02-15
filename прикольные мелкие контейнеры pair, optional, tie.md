@@ -123,6 +123,42 @@ std::optional<int> v;
 - функции, которые могут не вернуть результат
     
 
+
+## 3. Использование std::make_optional() (C++14 и новее)
+
+```cpp
+#include <optional>
+#include <string>
+
+std::optional<int> o1;                      // пустой
+std::optional<int> o2 = {};                  // пустой
+std::optional<int> o3 {};                     // пустой
+std::optional<int> o4 = std::nullopt;        // пустой
+std::optional<int> o5(std::nullopt);         // пустой
+auto o6 = std::optional<int>();               // пустой (временный объект)
+```
+```cpp
+std::optional<int> o1 = 42;                  // копирование
+std::optional<int> o2 {42};                    // uniform initialization
+std::optional<int> o3(42);                    // прямой вызов конструктора
+
+std::string str = "hello";
+std::optional<std::string> o4 = str;          // копирование
+std::optional<std::string> o5 = std::move(str); // перемещение
+```
+
+
+```
+cpp
+
+std::optional<double> divide(double a, double b) {
+    if (b == 0) {
+        return std::nullopt;
+    }
+    return std::make_optional(a / b);  // Явное создание через фабрику
+}
+
+```
 ### Как проверять / доставать
 
 ```cpp
