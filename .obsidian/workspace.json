@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "map.md",
+                "file": "Внутренности map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "map"
+              "title": "Внутренности map"
             }
           },
           {
@@ -473,6 +473,26 @@
             "id": "4f1a4e456d262e9b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "6ee1391ac8ec8bee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "bfc8461897bb94cc",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -480,7 +500,7 @@
             }
           },
           {
-            "id": "6ee1391ac8ec8bee",
+            "id": "0edcc676d5bb05ce",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -490,7 +510,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -510,11 +530,14 @@
   },
   "active": "84a8f82c28990438",
   "lastOpenFiles": [
-    "ИНКЛЮДЫ.md",
     "map.md",
+    "Внутренности map.md",
+    "algorithm.md",
+    "pair.md",
+    "Pasted image 20260207232331.png",
+    "ИНКЛЮДЫ.md",
     "Anather Counters.md",
     "C++.md",
-    "algorithm.md",
     "прикольные мелкие контейнеры pair, optional, tie.md",
     "Итератор.md",
     "повторяющиеся символы.md",
@@ -527,7 +550,6 @@
     "star_sheap.md",
     "Квадратные скобки.md",
     "ветвления.md",
-    "pair.md",
     "Signals.md",
     "enum class.md",
     "Qt/QString.md",
@@ -535,9 +557,7 @@
     "generate tramsform.md",
     "команды.md",
     "exeption (пример).md",
-    "lambda.md",
     "Pasted image 20260207232614.png",
-    "Pasted image 20260207232331.png",
     "Без названия.base",
     "Без названия 1",
     "Без названия",
