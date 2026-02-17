@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Внутренности map.md",
+                "file": "`decltype`.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Внутренности map"
+              "title": "`decltype`"
             }
           },
           {
@@ -493,6 +493,26 @@
             "id": "bfc8461897bb94cc",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "0edcc676d5bb05ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "63aa443f1cdb0725",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -500,7 +520,7 @@
             }
           },
           {
-            "id": "0edcc676d5bb05ce",
+            "id": "3a2ff37426319c18",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -510,7 +530,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 34
       }
     ],
     "direction": "horizontal",
@@ -530,8 +550,9 @@
   },
   "active": "84a8f82c28990438",
   "lastOpenFiles": [
-    "map.md",
     "Внутренности map.md",
+    "`decltype`.md",
+    "map.md",
     "algorithm.md",
     "pair.md",
     "Pasted image 20260207232331.png",
@@ -556,7 +577,6 @@
     "Include и оные.md",
     "generate tramsform.md",
     "команды.md",
-    "exeption (пример).md",
     "Pasted image 20260207232614.png",
     "Без названия.base",
     "Без названия 1",
