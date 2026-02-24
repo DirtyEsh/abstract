@@ -677,6 +677,46 @@
             "id": "3c7f12c34a7448b6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "bedbd24656a0f24c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "1ea4823c6c0ab679",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "2a7f59634b6cc947",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "751b746f2d6ba6d2",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -684,7 +724,7 @@
             }
           },
           {
-            "id": "bedbd24656a0f24c",
+            "id": "df28297af49e894b",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -694,7 +734,7 @@
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 52
       }
     ],
     "direction": "horizontal",
@@ -714,8 +754,9 @@
   },
   "active": "ede5557751b622d9",
   "lastOpenFiles": [
-    "Qt.md",
+    "qDebug.md",
     "QList.md",
+    "Qt.md",
     "QMap.md",
     "map.md",
     "STL.md",
@@ -749,7 +790,6 @@
     "pair.md",
     "Pasted image 20260207232331.png",
     "ИНКЛЮДЫ.md",
-    "повторяющиеся символы.md",
     "Pasted image 20260207232614.png",
     "Без названия.base",
     "Без названия 1",
